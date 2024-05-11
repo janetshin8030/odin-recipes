@@ -1,0 +1,1 @@
+hello,!! I finally understand how to do this?? kinda? i think i'll forget literally tomorrow LMAO

@@ -1,0 +1,25 @@
+#page {
+    background-color: lightblue;
+    font-family: cursive;
+}
+.title {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.cakedesc{
+    text-align: center;
+}
+.header {
+    font-size: 30px;
+    text-align: center;
+
+}
+.steps {
+    margin-left: auto;
+    font-size: 20px;
+}
+.list {
+    margin-left: auto;
+}
